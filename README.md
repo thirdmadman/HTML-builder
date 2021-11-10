@@ -1,6 +1,9 @@
 # HTML builder
 ---
 
+## Thank you anonymous for cross-check my work even after deadline many times!
+You can show your name in rs.app, so I could mention you in #gratitude!
+
 ### Цели:
 
 В данной серии заданий основной целью является понимание основ работы с платформой Node.js.  
